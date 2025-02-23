@@ -1,24 +1,113 @@
-<h1 align="center">Hi 👋, I'm Mahmoud Hagras</h1>
-<h3 align="center">Backend Developer</h3>
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" width="300" align="right">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoud-hagras&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoud-hagras" /> </p>
+# Hi 👋 , I'm **Mahmoud Hagrass**
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **Backend Development**
-
-- 📫 How to reach me **mahmoudhagras19@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+    Backend Developer | PHP Laravel Developer
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
-<br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoud-hagras&show_icons=true&locale=en&layout=compact" alt="mahmoud-hagras" /></p><br/>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoud-hagras&show_icons=true&locale=en" alt="mahmoud-hagras" /></p>
+## About Me
+🚀 I'm a **Backend Developer** passionate about creating fast, reliable, and scalable web applications using **PHP** and **Laravel**. I specialize in building robust backend systems with advanced features to improve user experience and performance.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoud-hagras&" alt="mahmoud-hagras" /></p>
+🔭 **Currently**, I'm working on building and maintaining **Laravel-based backend systems** and integrating advanced features like real-time functionality, API optimization, and cloud technologies.
 
+🌱 I'm always learning new tools, frameworks, and techniques to expand my skillset and stay updated with the latest trends in **backend development**.
+
+👨‍💻 You can find my work on my **GitHub profile**. I'm always open to collaborating on exciting open-source projects and expanding my knowledge.
+
+📫 **How to reach me**: mahmoudhagras19@gmail.com
+
+📄 If you'd like to know more about my experience, you can check out my **resume**.
+
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-000000?logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-D92C2C?logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![AJAX](https://img.shields.io/badge/AJAX-010101?logo=ajax&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?logo=websocket&logoColor=white)
+![Pusher](https://img.shields.io/badge/Pusher-300d4f?logo=pusher&logoColor=white)
+![Laravel Echo](https://img.shields.io/badge/Laravel_Echo-FF2D20?logo=laravel&logoColor=white)
+
+---
+
+## 🛠 Languages and Tools
+I work with a variety of technologies to build seamless backend systems.
+
+### Languages:
+- **PHP** 
+- **JavaScript** (for API integrations)
+- **HTML** (for web development)
+- **CSS** (for web design)
+
+### Frameworks and Libraries:
+- **Laravel** 
+- **Livewire**
+- **Redis** (for caching)
+- **MySQL** / **MariaDB** (for databases)
+- **AJAX** (for asynchronous web requests)
+- **jQuery** (for dynamic client-side functionality)
+- **WebSockets** (for real-time communication)
+- **Pusher** (for real-time notifications)
+
+### Tools:
+- **Git** / **GitHub** (version control)
+- **Docker** (for containerized environments)
+- **Apache / Nginx** (web servers)
+- **Redis** (for caching and real-time data)
+
+---
+
+## 🌱 I’m Currently Learning
+
+- Advanced **Laravel** techniques (Queues, Jobs, and Event Broadcasting).
+- **API Optimization** & **Performance Tuning**.
+- **Microservices Architecture** with Laravel.
+
+---
+
+## 📫 How to Reach Me
+
+- **LinkedIn**: [Mahmoud Hagrass](https://www.linkedin.com/in/mahmoudhagras/)
+- **Email**: mahmoudhagras19@gmail.com
+
+---
+
+## 🔥 GitHub Stats
+
+![Mahmoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true)
+
+---
+
+## 🎯 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=radical&hide_border=true)
+
+---
+
+## 🛠️ GitHub Badges
+
+![GitHub Badge](https://img.shields.io/github/followers/yourusername?style=social)
+
+---
+
+## 👨‍💻 Top Technologies I Work With
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-000000?logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-D92C2C?logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![AJAX](https://img.shields.io/badge/AJAX-010101?logo=ajax&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?logo=websocket&logoColor=white)
+![Pusher](https://img.shields.io/badge/Pusher-300d4f?logo=pusher&logoColor=white)
+![Laravel Echo](https://img.shields.io/badge/Laravel_Echo-FF2D20?logo=laravel&logoColor=white)
