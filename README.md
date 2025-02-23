@@ -1,7 +1,7 @@
-# Hi 👋 , I'm **Mahmoud Hagrass**
+# Hey there 👋 I'm **Mahmoud Hagrass**
 
 <p align="center">
-    Backend Developer | PHP Laravel Developer
+     <strong></strong>Backend Developer | PHP Laravel Developer</strong>
 </p>
 
 ---
@@ -86,13 +86,13 @@ I work with a variety of technologies to build seamless backend systems.
 
 ## 🎯 Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Mahmoud-Hagrass&theme=radical&hide_border=true)
 
 ---
 
 ## 🛠️ GitHub Badges
 
-![GitHub Badge](https://img.shields.io/github/followers/yourusername?style=social)
+![GitHub Badge](https://img.shields.io/github/followers/Mahmoud-Hagrass?style=social)
 
 ---
 
