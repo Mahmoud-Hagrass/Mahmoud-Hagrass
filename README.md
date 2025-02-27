@@ -1,24 +1,14 @@
-# Hi 👋 , I'm **Mahmoud Hagrass**
-
-<p align="center">
-     <strong>Backend Developer | PHP Laravel Developer</strong>
-</p>
-
+# Hi, 👋 I'm Mahmoud Hagras 
+#### 🚀 Backend Developer | PHP & Laravel Specialist | Building Fast,   Reliable, and Scalable Web Applications | Passionate About Clean Code and Problem Solving | REST APIs | Database Optimization | Full-Stack Enthusiast 💻
 ---
+🛠 Currently working on building scalable **Laravel**-based backend systems.<br>
+👨‍💻 Passionate about **API Optimization**, **Real-time Systems**, and **Microservices**.<br>
+🚀 I specialize in creating robust, high-performance web applications using **PHP** and **Laravel**.<br>
+🌱 Always learning new tools, techniques, and frameworks to stay at the top of my game.<br>
+🎯 Open to exciting **open-source** collaborations and opportunities.<br>
 
-## About Me
-🚀 I'm a **Backend Developer** passionate about creating fast, reliable, and scalable web applications using **PHP** and **Laravel**. I specialize in building robust backend systems with advanced features to improve user experience and performance.
 
-🔭 **Currently**, I'm working on building and maintaining **Laravel-based backend systems** and integrating advanced features like real-time functionality, API optimization, and cloud technologies.
-
-🌱 I'm always learning new tools, frameworks, and techniques to expand my skillset and stay updated with the latest trends in **backend development**.
-
-👨‍💻 You can find my work on my **GitHub profile**. I'm always open to collaborating on exciting open-source projects and expanding my knowledge.
-
-📫 **How to reach me**: mahmoudhagras19@gmail.com
-
-📄 If you'd like to know more about my experience, you can check out my **resume**.
-
+## 💻 Top Technologies I Work With
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
@@ -33,12 +23,51 @@
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?logo=websocket&logoColor=white)
 ![Pusher](https://img.shields.io/badge/Pusher-300d4f?logo=pusher&logoColor=white)
 ![Laravel Echo](https://img.shields.io/badge/Laravel_Echo-FF2D20?logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-4EAF66?logo=livewire&logoColor=white)
+
+
+## 📊 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahmoud-Hagrass&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahmoud-Hagrass&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
 
 ---
 
-## 🛠 Languages and Tools
-I work with a variety of technologies to build seamless backend systems.
+## 💬 How to reach me :
 
+<div align="left">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/mahmoudhagras/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  
+  <!-- Gmail -->
+  <a href="mailto:mahmoudhagras19@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  
+  <!-- WhatsApp -->
+  <a href="https://wa.me/+201206814586" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo" />
+  </a>
+
+  <!-- Telegram -->
+  <a href="https://t.me/+201206814586" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=0088cc&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo" />
+  </a>
+</div>
+
+---
+
+## 🌱 I’m Currently Learning:
+
+- Advanced **Laravel** techniques (Queues, Jobs, and Event Broadcasting).
+- **API Optimization** & **Performance Tuning**.
+- **Learning SOLID Principals and Desgin Patterns**.
+---
+
+## 🛠 Languages and Tools:
 ### Languages:
 - **PHP** 
 - **JavaScript** (for API integrations)
@@ -63,40 +92,13 @@ I work with a variety of technologies to build seamless backend systems.
 
 ---
 
-## 🌱 I’m Currently Learning
 
-- Advanced **Laravel** techniques (Queues, Jobs, and Event Broadcasting).
-- **API Optimization** & **Performance Tuning**.
-- **Microservices Architecture** with Laravel.
-
----
-
-## 📫 How to Reach Me
-
-- **LinkedIn**: [Mahmoud Hagrass](https://www.linkedin.com/in/mahmoudhagras/)
-- **Email**: mahmoudhagras19@gmail.com
-
----
-
-## 🔥 GitHub Stats
-
-![Mahmoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahmoud-Hagrass&show_icons=true&theme=radical&hide_border=true)
-
----
-
-## 🎯 Streak Stats
+## 🎯 Streak Stats:
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Mahmoud-Hagrass&theme=radical&hide_border=true)
 
 ---
 
-## 🛠️ GitHub Badges
-
-![GitHub Badge](https://img.shields.io/github/followers/Mahmoud-Hagrass?style=social)
-
----
-
-## 👨‍💻 Top Technologies I Work With
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
@@ -111,3 +113,10 @@ I work with a variety of technologies to build seamless backend systems.
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?logo=websocket&logoColor=white)
 ![Pusher](https://img.shields.io/badge/Pusher-300d4f?logo=pusher&logoColor=white)
 ![Laravel Echo](https://img.shields.io/badge/Laravel_Echo-FF2D20?logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-4EAF66?logo=livewire&logoColor=white)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
